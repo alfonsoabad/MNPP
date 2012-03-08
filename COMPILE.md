@@ -138,7 +138,7 @@ http://pecl.php.net/package/tidy
 make    
 make install    
 
-PHP 2.5.17
+PHP 5.2.17
 ---
 
 $ wget -c http://us3.php.net/get/php-5.2.17.tar.gz/from/this/mirror
